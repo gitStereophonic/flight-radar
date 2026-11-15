@@ -4,6 +4,7 @@ be/node_modules/
 
 # Build outputs
 be/dist/
+fe/dist/
 
 # Environment variables
 be/.env
